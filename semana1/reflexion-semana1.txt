@@ -7,3 +7,4 @@ finalmente herramientas como git permite organizar el trabajo de forma estructur
 transparente y colectiva y reguistra cambios facilita el trabajo en equipo
 y asegura trazabilidad de la imformacion lo que refleja un uso resposable y 
 organizado de los datos en el desrrollo de proyectos
+Saludos
