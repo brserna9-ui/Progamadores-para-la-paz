@@ -1,0 +1,9 @@
+pregunta5
+Inicio,
+1. leer y compreder la terea,
+2. Identificar los requisitos y objetivos,
+3. Buscar y recopilarla imformacion necesaria,
+4. Organizar las ideas y planificar la solucion,
+5. Realizar la tarea paso a paso,
+6. Revisar y correguir posibles errores, 
+fin,
