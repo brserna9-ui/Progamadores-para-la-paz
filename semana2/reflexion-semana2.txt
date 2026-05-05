@@ -1,0 +1,11 @@
+reflexion
+Para un desarrollador, dominar la terminal no es solo saber escribir comandos, es aprender a pensar de forma más directa y ordenada.
+La terminal te obliga a entender cómo está estructurado tu proyecto realmente, sin depender de botones ni interfaces bonitas.
+Eso hace que tengas más control sobre tus archivos y menos errores al trabajar.
+También te vuelve más rápido, porque muchas tareas se hacen en segundos con un comando.
+Además, te ayuda a resolver problemas cuando algo falla, ya que puedes ver lo que pasa “por dentro”.
+Es como pasar de ser un usuario a ser alguien que entiende el sistema.
+Organizar archivos desde la terminal también mejora tu disciplina como desarrollador.
+Te acostumbras a trabajar de forma más limpia y lógica.
+A largo plazo, esto te hace más independiente y profesional.
+En pocas palabras, la terminal no es solo una herramienta, es una forma de pensar mejor el desarrollo.
