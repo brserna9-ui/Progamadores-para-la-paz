@@ -1,0 +1,9 @@
+Reflexion
+Las herramientas como Git son muy importantes en los proyectos de software porque ayudan a mantener un control de todos los cambios que se realizan.
+Gracias a esto, los desarrolladores pueden guardar avances de manera segura y regresar a una versión anterior si ocurre algún error.
+También permite saber quién hizo cada modificación dentro del proyecto y en qué momento la realizó.
+Esto ayuda a mantener el trabajo más organizado y evita perder información importante.
+Además, Git facilita el trabajo en equipo, ya que varias personas pueden trabajar al mismo tiempo en diferentes partes del proyecto.
+Otra ventaja es que permite compartir el código fácilmente en plataformas como GitHub.
+De esta manera, el proyecto puede actualizarse constantemente sin desorden.
+En conclusión, usar Git hace que el desarrollo de software sea más seguro, ordenado y eficiente para todos los integrantes del equipo.
